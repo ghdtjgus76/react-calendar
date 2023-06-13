@@ -5,4 +5,4 @@
 [달력에 부가 기능 추가하기-2] https://gugu76.tistory.com/13 <br />
 [리액트로 만든 달력 배포까지 해보자!] https://gugu76.tistory.com/49 <br />
 
-https://react-calendar-0613.netlify.app/
+https://ghdtjgus76-react-calendar.netlify.app/
